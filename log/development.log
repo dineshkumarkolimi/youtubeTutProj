@@ -1,0 +1,53 @@
+Started GET "/" for 127.0.0.1 at 2023-07-07 19:03:47 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 839)
+Completed 200 OK in 12ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 10005)
+
+
+Started GET "/" for ::1 at 2023-07-07 19:03:54 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 454)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 1358)
+
+
+Started GET "/pages/home" for ::1 at 2023-07-07 19:33:37 +0530
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 376)
+  Rendered layout layouts/application.html.erb (Duration: 1758.5ms | Allocations: 77687)
+Completed 200 OK in 1765ms (Views: 1760.2ms | ActiveRecord: 0.0ms | Allocations: 84210)
+
+
+Started GET "/" for ::1 at 2023-07-07 19:37:38 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 466)
+Completed 200 OK in 3ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 1452)
+
+
+Started GET "/" for ::1 at 2023-07-07 19:37:46 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 454)
+Completed 200 OK in 4ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1361)
+
+
+Started GET "/" for ::1 at 2023-07-07 19:37:48 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dineshkumarkolimi/.rvm/gems/ruby-3.0.0/gems/railties-7.0.5.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 15)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 268)
+
+
+Started GET "/pages/home" for ::1 at 2023-07-07 19:37:50 +0530
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 118)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 1576)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 2593)
+
+
