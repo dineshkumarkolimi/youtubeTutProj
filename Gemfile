@@ -17,6 +17,7 @@ gem 'pg'
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 
 gem "bootsnap", require: false
+gem 'sassc', '~> 2.1.0'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
