@@ -12,7 +12,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 gem 'bootstrap', '~> 5.2', '>= 5.2.3'
 gem 'jquery-rails'
-gem ''aws-sdk-rails
+gem 'aws-sdk-rails'
 gem 'pg'
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 
